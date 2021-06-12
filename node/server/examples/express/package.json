@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "@bridged.xyz/remote-ui-core": "file:../../../core",
-    "@grpc/grpc-js": "^1.1.3",
+    "@grpc/grpc-js": "^1.1.8",
     "@grpc/proto-loader": "^0.5.3",
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
